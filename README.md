@@ -7,8 +7,8 @@ This is a simple command-line Todo List project in JavaScript. It organizes all 
 
 - Simple object-based todo structure
 - Filters tasks into:
-  -> Done Tasks
-  -> Ongoing Tasks
+  - Done Tasks
+  - Ongoing Tasks
 - Outputs categorized tasks using 'console.log()'
 
 ## System Requirements
