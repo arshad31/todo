@@ -23,3 +23,15 @@ This is a simple command-line Todo List project in JavaScript. It organizes all 
 2. Open the terminal in the project folder.
 3. Run the JavaScript file using the command "node todo.js" in the terminal
 
+## Task  Table
+
+| Completed Tasks              | Ongoing Tasks          |
+|------------------------------|------------------------|
+| 1. Do Module 10 Assignment   | 1. Update resume       |
+| 2. JavaScript Code Practice  | 2. Morning exercise    |
+| 3. Join Support Class        | 3. Submit assignment   |
+
+
+
+
+
