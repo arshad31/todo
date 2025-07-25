@@ -31,6 +31,9 @@ This is a simple command-line Todo List project in JavaScript. It organizes all 
 | 2. JavaScript Code Practice  | 2. Morning exercise    |
 | 3. Join Support Class        | 3. Submit assignment   |
 
+## Sample Output Screenshot
+
+![Todo List Output](output.png)
 
 
 
