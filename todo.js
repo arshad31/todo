@@ -10,8 +10,8 @@ const todos = [
 const completedTasks = todos.filter(todo => todo.done === true);
 const ongoingTasks = todos.filter(todo => todo.done === false);
 
-console.log("Done: ");
+console.log("Done:");
 completedTasks.forEach((task, index)=>{console.log(`${index + 1}. ${task.title}`)});
 
-console.log("\nOngoing: ");
+console.log("\nOngoing:");
 ongoingTasks.forEach((task, index)=>{console.log(`${index + 1}. ${task.title}`)});
